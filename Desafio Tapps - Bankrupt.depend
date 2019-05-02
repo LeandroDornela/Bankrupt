@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1502711106 source:d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\main.cpp
+	"Tabuleiro.h"
+
+1502647828 source:d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\src\filestream.cpp
+	"FileStream.h"
+
+1502648425 d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\include\filestream.h
+	<iostream>
+	<fstream>
+	<string>
+
+1502693183 source:d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\src\propriedade.cpp
+	"Propriedade.h"
+
+1502692617 d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\include\propriedade.h
+	"Jogador.h"
+
+1502692617 source:d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\src\tabuleiro.cpp
+	"Tabuleiro.h"
+
+1502692617 d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\include\tabuleiro.h
+	<iostream>
+	<fstream>
+	"Propriedade.h"
+
+1502694333 source:d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\src\jogador.cpp
+	"Jogador.h"
+
+1502694333 d:\desenvolvimento\projetos\desafiotapps\desafio tapps - bankrupt\include\jogador.h
+	<iostream>
+	<cstddef>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Tabuleiro.h"
+	"Propriedade.h"
+
